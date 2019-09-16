@@ -1,8 +1,6 @@
 # RegularPolyhedronDrawer
-正多面体を画面に表示し、マウスで回転させるプログラムです。
-
-## "RegularPolyhedronDrawer.exe"
-- ダウンロードしてそのまま実行してください。
+- 正多面体を画面に表示し、マウスで回転させるプログラムです。
+- "RegularPolyhedronDrawer.exe"をダウンロードしてそのまま実行してください。
 - Windows(x64)用です。
 
 ## "source"
