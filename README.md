@@ -1,8 +1,9 @@
 # Apps
+- 私が制作したアプリケーションです。
 
-私が制作したアプリケーションです。
+## Tetris
+- 市販のテトリスを真似て作ったものです。
 
-Siv3Dというライブラリを使用しています。
+## RegularPolyhedronDrawer
+- 正多面体を画面に表示し、マウスで回転させるプログラムです。
 
-Siv3D をはじめよう - Siv3D 
-https://siv3d.github.io/ja-jp/
